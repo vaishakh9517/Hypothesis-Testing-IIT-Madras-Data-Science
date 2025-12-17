@@ -1,4 +1,4 @@
-Hypothesis-Testing-on-Automotive-Pricing-Data
+#Hypothesis-Testing-on-Automotive-Pricing-Data
 
 This repository contains a comprehensive statistical hypothesis testing project performed using Python, focused on validating business assumptions related to automotive pricing and vehicle characteristics.
 The project demonstrates real-world application of inferential statistics to support data-driven decision-making.
