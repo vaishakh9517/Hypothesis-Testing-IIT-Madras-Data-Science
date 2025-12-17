@@ -1,4 +1,4 @@
-Hypothesis-Testing-on-Automotive-Pricing-Data
+#Hypothesis-Testing-on-Automotive-Pricing-Data
 
 This repository contains a comprehensive statistical hypothesis testing project performed using Python, focused on validating business assumptions related to automotive pricing and vehicle characteristics.
 The project demonstrates real-world application of inferential statistics to support data-driven decision-making.
@@ -166,3 +166,9 @@ Support pricing and market decisions
 Reduce decision-making bias using data
 
 Apply theoretical statistics to real-world datasets
+
+## 🙋‍♂️ About Me
+
+**Vaishakh K**  
+Data Analyst | Excel | MySQL | Python | Tableau | Power BI
+[LinkedIn](https://www.linkedin.com/in/vaishakh-k-0b2bb8202/) • [Portfolio](https://github.com/vaishakh9517)
